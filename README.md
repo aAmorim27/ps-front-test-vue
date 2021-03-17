@@ -4,24 +4,20 @@ Ce test a pour but d'évaluer les compétences techniques des candidats au poste
 ​
 ## Consignes du test
 Vous allez devoir réaliser l'intégration de la maquette d'une liste d'agences partenaires PrestaShop en VueJS   
-​
+
 ### Etapes
 1. Récupérer les données depuis l'API 
 2. Intégrer la card
 3. Intégrer la liste des cards 
 4. Utiliser les données de l'API dans les cards
-
 ### Bonus
 5. Utiliser VueX pour stocker les donneés de l'API
 6. Créer une page contenant les données de l'agence cliquée 
-​
-## Contraintes
-​
+### Contraintes
 - Utilisation de VueJS
 - Scss/Sass
 ​
 ## Setup du projet
-​
 ### Prérequis
 NodeJS   
 NPM ou YARN
