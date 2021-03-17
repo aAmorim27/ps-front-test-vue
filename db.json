@@ -339,42 +339,6 @@
           "title": "Third party software integration"
         }
       ]
-    },
-    {
-      "webServiceToken": "test-token",
-      "domain": "http://slim:8080/",
-      "shopId": "55444652878890",
-      "multishop": false,
-      "sslDomain": "https://slim:8080/",
-      "moduleName": "ps_metrics",
-      "psVersion": "1.7",
-      "publicKey": "public_key_bro",
-      "lang": "en",
-      "shopName": "BoutiqueCrade",
-      "favicon": "http://localhost:8080/icon.ico",
-      "adminBoUrl": "http://localhost:8080/admin",
-      "frontendUrl": "http://localhost:8080/",
-      "prestashopCreationDate": 1615219899881,
-      "allowAnonymousDataCollection": false,
-      "id": 13
-    },
-    {
-      "webServiceToken": "test-token",
-      "domain": "http://slim:8080/",
-      "shopId": "55444652878890",
-      "multishop": false,
-      "sslDomain": "https://slim:8080/",
-      "moduleName": "ps_metrics",
-      "psVersion": "1.7",
-      "publicKey": "public_key_bro",
-      "lang": "en",
-      "shopName": "BoutiqueCrade",
-      "favicon": "http://localhost:8080/icon.ico",
-      "adminBoUrl": "http://localhost:8080/admin",
-      "frontendUrl": "http://localhost:8080/",
-      "prestashopCreationDate": 1615219899881,
-      "allowAnonymousDataCollection": false,
-      "id": 14
     }
   ],
   "skills": [
