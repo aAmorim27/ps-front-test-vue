@@ -1,5 +1,5 @@
 {
-  "name": "psdotcom_front_end_test",
+  "name": "ps_front_end_test",
   "version": "1.0.0",
   "private": true,
   "author": {
@@ -44,7 +44,7 @@
     "typescript": "~4.1.5",
     "vue-jest": "^5.0.0-0"
   },
-  "_id": "psdotcom_front_end_test@1.0.0",
+  "_id": "ps_front_end_test@1.0.0",
   "license": "MIT",
   "readme": "ERROR: No README data found!"
 }

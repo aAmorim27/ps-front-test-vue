@@ -4,175 +4,439 @@
       "id": 1,
       "name": "Antadis",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1497279430859_86.png",
-      "country": {"id": "FR", "name":"France"},
+      "country": {
+        "id": "FR",
+        "name": "France"
+      },
       "grade": "Platinum",
       "skills": [
-        {"id": 1, "title": "Content Management"},
-        {"id": 2, "title": "Custom Development"},
-        {"id": 3, "title": "Database Management"},
-        {"id": 8, "title": "Mobile"}
+        {
+          "id": 1,
+          "title": "Content Management"
+        },
+        {
+          "id": 2,
+          "title": "Custom Development"
+        },
+        {
+          "id": 3,
+          "title": "Database Management"
+        },
+        {
+          "id": 8,
+          "title": "Mobile"
+        }
       ]
     },
     {
       "id": 2,
       "name": "ITIS Commerce",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1545051023453_30.png",
-      "country": {"id": "FR", "name":"France"},
+      "country": {
+        "id": "FR",
+        "name": "France"
+      },
       "grade": "Platinum",
       "skills": [
-        {"id": 1, "title": "Content Management"},
-        {"id": 2, "title": "Custom Development"},
-        {"id": 3, "title": "Database Management"},
-        {"id": 4, "title": "Design & UX"}
+        {
+          "id": 1,
+          "title": "Content Management"
+        },
+        {
+          "id": 2,
+          "title": "Custom Development"
+        },
+        {
+          "id": 3,
+          "title": "Database Management"
+        },
+        {
+          "id": 4,
+          "title": "Design & UX"
+        }
       ]
     },
     {
       "id": 3,
       "name": "L'Agence 123",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1539590361568_32.png",
-      "country": {"id": "FR", "name":"France"},
+      "country": {
+        "id": "FR",
+        "name": "France"
+      },
       "grade": "Platinum",
       "skills": [
-        {"id": 1, "title": "Content Management"},
-        {"id": 2, "title": "Custom Development"},
-        {"id": 3, "title": "Database Management"},
-        {"id": 4, "title": "Design & UX"}
+        {
+          "id": 1,
+          "title": "Content Management"
+        },
+        {
+          "id": 2,
+          "title": "Custom Development"
+        },
+        {
+          "id": 3,
+          "title": "Database Management"
+        },
+        {
+          "id": 4,
+          "title": "Design & UX"
+        }
       ]
     },
     {
       "id": 4,
       "name": "Evolutive Group - Web Agency",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1492839660526_95.jpeg",
-      "country": {"id": "CH", "name":"Switzerland"},
+      "country": {
+        "id": "CH",
+        "name": "Switzerland"
+      },
       "grade": "Platinum",
       "skills": [
-        {"id": 5, "title": "E-commerce Consulting"},
-        {"id": 6, "title": "Hosting"},
-        {"id": 7, "title": "Migration"},
-        {"id": 8, "title": "Mobile"},
-        {"id": 9, "title": "Modules Development"}
+        {
+          "id": 5,
+          "title": "E-commerce Consulting"
+        },
+        {
+          "id": 6,
+          "title": "Hosting"
+        },
+        {
+          "id": 7,
+          "title": "Migration"
+        },
+        {
+          "id": 8,
+          "title": "Mobile"
+        },
+        {
+          "id": 9,
+          "title": "Modules Development"
+        }
       ]
     },
     {
       "id": 5,
       "name": "Soledis",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1492177967084_89.png",
-      "country": {"id": "FR", "name":"France"},
+      "country": {
+        "id": "FR",
+        "name": "France"
+      },
       "grade": "Platinum",
       "skills": [
-        {"id": 4, "title": "Design & UX"},
-        {"id": 2, "title": "Custom Development"},
-        {"id": 9, "title": "Modules Development"},
-        {"id": 8, "title": "Mobile"}
+        {
+          "id": 4,
+          "title": "Design & UX"
+        },
+        {
+          "id": 2,
+          "title": "Custom Development"
+        },
+        {
+          "id": 9,
+          "title": "Modules Development"
+        },
+        {
+          "id": 8,
+          "title": "Mobile"
+        }
       ]
     },
     {
       "id": 6,
       "name": "Axome",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1494943150295_37.jpeg",
-      "country": {"id": "FR", "name":"France"},
+      "country": {
+        "id": "FR",
+        "name": "France"
+      },
       "grade": "Platinum",
       "skills": [
-        {"id": 10, "title": "SEA (Search Engine Advertising)"},
-        {"id": 2, "title": "Custom Development"},
-        {"id": 7, "title": "Migration"},
-        {"id": 4, "title": "Design & UX"}
+        {
+          "id": 10,
+          "title": "SEA (Search Engine Advertising)"
+        },
+        {
+          "id": 2,
+          "title": "Custom Development"
+        },
+        {
+          "id": 7,
+          "title": "Migration"
+        },
+        {
+          "id": 4,
+          "title": "Design & UX"
+        }
       ]
     },
     {
       "id": 7,
       "name": "Presta-Module",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1495795907978_18.jpeg",
-      "country": {"id": "FR", "name":"France"},
+      "country": {
+        "id": "FR",
+        "name": "France"
+      },
       "grade": "Gold",
       "skills": [
-        {"id": 1, "title": "Content Management"},
-        {"id": 2, "title": "Custom Development"},
-        {"id": 3, "title": "Database Management"},
-        {"id": 4, "title": "Design & UX"}
+        {
+          "id": 1,
+          "title": "Content Management"
+        },
+        {
+          "id": 2,
+          "title": "Custom Development"
+        },
+        {
+          "id": 3,
+          "title": "Database Management"
+        },
+        {
+          "id": 4,
+          "title": "Design & UX"
+        }
       ]
     },
     {
       "id": 8,
       "name": "Kyxar",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1492791046516_38.png",
-      "country": {"id": "FR", "name":"France"},
+      "country": {
+        "id": "FR",
+        "name": "France"
+      },
       "grade": "Gold",
       "skills": [
-        {"id": 11, "title": "SEO (Search Engine Optimization)"},
-        {"id": 12, "title": "SMO (Social Media Optimization)"},
-        {"id": 13, "title": "Support"},
-        {"id": 14, "title": "Website Optimization"}
+        {
+          "id": 11,
+          "title": "SEO (Search Engine Optimization)"
+        },
+        {
+          "id": 12,
+          "title": "SMO (Social Media Optimization)"
+        },
+        {
+          "id": 13,
+          "title": "Support"
+        },
+        {
+          "id": 14,
+          "title": "Website Optimization"
+        }
       ]
     },
     {
       "id": 9,
       "name": "Sixtrone",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1545039338396_12.jpg",
-      "country": {"id": "FR", "name":"France"},
+      "country": {
+        "id": "FR",
+        "name": "France"
+      },
       "grade": "Silver",
       "skills": [
-        {"id": 11, "title": "SEO (Search Engine Optimization)"},
-        {"id": 12, "title": "SMO (Social Media Optimization)"},
-        {"id": 13, "title": "Support"},
-        {"id": 14, "title": "Website Optimization"}
+        {
+          "id": 11,
+          "title": "SEO (Search Engine Optimization)"
+        },
+        {
+          "id": 12,
+          "title": "SMO (Social Media Optimization)"
+        },
+        {
+          "id": 13,
+          "title": "Support"
+        },
+        {
+          "id": 14,
+          "title": "Website Optimization"
+        }
       ]
     },
     {
       "id": 10,
       "name": "Target Web",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1517502007391_47.jpg",
-      "country": {"id": "FR", "name":"France"},
+      "country": {
+        "id": "FR",
+        "name": "France"
+      },
       "grade": "Silver",
       "skills": [
-        {"id": 5, "title": "E-commerce Consulting"},
-        {"id": 6, "title": "Hosting"},
-        {"id": 12, "title": "SMO (Social Media Optimization)"},
-        {"id": 4, "title": "Design & UX"}
+        {
+          "id": 5,
+          "title": "E-commerce Consulting"
+        },
+        {
+          "id": 6,
+          "title": "Hosting"
+        },
+        {
+          "id": 12,
+          "title": "SMO (Social Media Optimization)"
+        },
+        {
+          "id": 4,
+          "title": "Design & UX"
+        }
       ]
     },
     {
       "id": 11,
       "name": "Agence Impulsion",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1551694945663_22.jpg",
-      "country": {"id": "FR", "name":"France"},
+      "country": {
+        "id": "FR",
+        "name": "France"
+      },
       "grade": "Bronze",
       "skills": [
-        {"id": 5, "title": "E-commerce Consulting"},
-        {"id": 7, "title": "Migration"},
-        {"id": 3, "title": "Database Management"},
-        {"id": 14, "title": "Website Optimization"}
+        {
+          "id": 5,
+          "title": "E-commerce Consulting"
+        },
+        {
+          "id": 7,
+          "title": "Migration"
+        },
+        {
+          "id": 3,
+          "title": "Database Management"
+        },
+        {
+          "id": 14,
+          "title": "Website Optimization"
+        }
       ]
     },
     {
       "id": 12,
       "name": "Cible Web",
       "logo": "https://assets.prestashop2.com/sites/default/files/agency_logo_upload/logo-1550481319014_11.png",
-      "country": {"id": "FR", "name":"France"},
+      "country": {
+        "id": "FR",
+        "name": "France"
+      },
       "grade": "Bronze",
       "skills": [
-        {"id": 7, "title": "Migration"},
-        {"id": 9, "title": "Modules Development"},
-        {"id": 2, "title": "Custom Development"},
-        {"id": 15, "title": "Third party software integration"}
+        {
+          "id": 7,
+          "title": "Migration"
+        },
+        {
+          "id": 9,
+          "title": "Modules Development"
+        },
+        {
+          "id": 2,
+          "title": "Custom Development"
+        },
+        {
+          "id": 15,
+          "title": "Third party software integration"
+        }
       ]
+    },
+    {
+      "webServiceToken": "test-token",
+      "domain": "http://slim:8080/",
+      "shopId": "55444652878890",
+      "multishop": false,
+      "sslDomain": "https://slim:8080/",
+      "moduleName": "ps_metrics",
+      "psVersion": "1.7",
+      "publicKey": "public_key_bro",
+      "lang": "en",
+      "shopName": "BoutiqueCrade",
+      "favicon": "http://localhost:8080/icon.ico",
+      "adminBoUrl": "http://localhost:8080/admin",
+      "frontendUrl": "http://localhost:8080/",
+      "prestashopCreationDate": 1615219899881,
+      "allowAnonymousDataCollection": false,
+      "id": 13
+    },
+    {
+      "webServiceToken": "test-token",
+      "domain": "http://slim:8080/",
+      "shopId": "55444652878890",
+      "multishop": false,
+      "sslDomain": "https://slim:8080/",
+      "moduleName": "ps_metrics",
+      "psVersion": "1.7",
+      "publicKey": "public_key_bro",
+      "lang": "en",
+      "shopName": "BoutiqueCrade",
+      "favicon": "http://localhost:8080/icon.ico",
+      "adminBoUrl": "http://localhost:8080/admin",
+      "frontendUrl": "http://localhost:8080/",
+      "prestashopCreationDate": 1615219899881,
+      "allowAnonymousDataCollection": false,
+      "id": 14
     }
   ],
   "skills": [
-    {"id": 1, "title": "Content Management"},
-    {"id": 2, "title": "Custom Development"},
-    {"id": 3, "title": "Database Management"},
-    {"id": 4, "title": "Design & UX"},
-    {"id": 5, "title": "E-commerce Consulting"},
-    {"id": 6, "title": "Hosting"},
-    {"id": 7, "title": "Migration"},
-    {"id": 8, "title": "Mobile"},
-    {"id": 9, "title": "Modules Development"},
-    {"id": 10, "title": "SEA (Search Engine Advertising)"},
-    {"id": 11, "title": "SEO (Search Engine Optimization)"},
-    {"id": 12, "title": "SMO (Social Media Optimization)"},
-    {"id": 13, "title": "Support"},
-    {"id": 14, "title": "Website Optimization"},
-    {"id": 15, "title": "Third party software integration"}
+    {
+      "id": 1,
+      "title": "Content Management"
+    },
+    {
+      "id": 2,
+      "title": "Custom Development"
+    },
+    {
+      "id": 3,
+      "title": "Database Management"
+    },
+    {
+      "id": 4,
+      "title": "Design & UX"
+    },
+    {
+      "id": 5,
+      "title": "E-commerce Consulting"
+    },
+    {
+      "id": 6,
+      "title": "Hosting"
+    },
+    {
+      "id": 7,
+      "title": "Migration"
+    },
+    {
+      "id": 8,
+      "title": "Mobile"
+    },
+    {
+      "id": 9,
+      "title": "Modules Development"
+    },
+    {
+      "id": 10,
+      "title": "SEA (Search Engine Advertising)"
+    },
+    {
+      "id": 11,
+      "title": "SEO (Search Engine Optimization)"
+    },
+    {
+      "id": 12,
+      "title": "SMO (Social Media Optimization)"
+    },
+    {
+      "id": 13,
+      "title": "Support"
+    },
+    {
+      "id": 14,
+      "title": "Website Optimization"
+    },
+    {
+      "id": 15,
+      "title": "Third party software integration"
+    }
   ]
 }
